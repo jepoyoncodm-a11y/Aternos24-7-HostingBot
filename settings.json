@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chronossmp-hdO9.aternos.me",
-    "port": 25167,
+    "ip": "lightbornsmp.minefort.com",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
