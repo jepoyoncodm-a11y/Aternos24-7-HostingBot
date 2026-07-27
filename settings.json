@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chronossmp-hdO9.aternos.me",
-    "port": 25167,
+    "ip": "runicsmp.aternos.me",
+    "port": 41865,
     "version": "",
     "try-creative": false
   },
